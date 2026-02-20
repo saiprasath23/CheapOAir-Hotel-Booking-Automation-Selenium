@@ -73,7 +73,8 @@ CheapOAirHotelAutomation
 1. Clone this repository to your local system  
 2. Open the project in Eclipse / IntelliJ IDE  
 3. Update Maven dependencies  
-4. Run the HotelBookingTest.java file  
+4. Run the HotelBookingTest.java file
+5. Change xpath for calendar date at HotelBookingPage.java
 
 ---
 
@@ -83,4 +84,5 @@ Sai Prasath
 Incoming Software QA Engineer  
 
 Technical Skills:  
+
 Selenium | Core Java | SQL | Manual Testing | API Testing | Jira | Agile Scrum
